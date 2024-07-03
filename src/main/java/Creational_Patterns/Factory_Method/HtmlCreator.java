@@ -1,8 +1,8 @@
 package Creational_Patterns.Factory_Method;
 
-public class WindowsCreator extends Creator {
+public class HtmlCreator extends Creator{
     @Override
     public Button createButton() {
-        return new WindowsButtonImpl();
+        return new HtmlButtonImpl();
     }
 }

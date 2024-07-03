@@ -1,4 +1,4 @@
-package Factory_Method;
+package Creational_Patterns.Factory_Method;
 
 public class Main {
     private static Creator creator;

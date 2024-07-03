@@ -1,4 +1,4 @@
-package Factory_Method;
+package Creational_Patterns.Factory_Method;
 
 public abstract class Creator {
     public void render(){
